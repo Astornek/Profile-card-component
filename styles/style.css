@@ -30,8 +30,8 @@ body {
   overflow: hidden;
   position: relative;
   background-color: var(--Dark-cyan);
-  background-image: url(/images/bg-pattern-top.svg),
-    url(/images/bg-pattern-bottom.svg);
+  background-image: url(images/bg-pattern-top.svg),
+    url(images/bg-pattern-bottom.svg);
   background-repeat: no-repeat, no-repeat;
   background-position: right 49vw bottom 45vh, left 52vw top 44vh;
 }
